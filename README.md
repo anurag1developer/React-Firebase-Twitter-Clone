@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Twitter Clone With React and Firebase Database and Hosting
+
+## Database is not real time so while adding post don't forget to refresh
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
